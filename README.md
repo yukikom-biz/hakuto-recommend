@@ -15,10 +15,12 @@
 
 ### Web Site
 え、推薦文ってアプリ作るんじゃないの？と思った方向け
+まだ作成途中です。
+[hakuto App](https://haku-recommend.firebaseapp.com/)
 
 ### Api Request
 いやいやAPIリクエスト飛ばしたいよという方向け
-
+作成中
 
 ## Tech
 - Git on Github

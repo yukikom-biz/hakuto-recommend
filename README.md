@@ -5,6 +5,20 @@
 
 すみません執筆途中です。（というか開発途中です）
 
+## How to use
+
+### Text only
+単純に文章だけみたいという方向け
+↓↓↓
+[推薦文](./docs/index.md)
+
+### Web Site
+え、推薦文ってアプリ作るんじゃないの？と思った方向け
+
+### Api Request
+いやいやAPIリクエスト飛ばしたいよという方向け
+
+
 ## Tech
 - Git on Github
 - Vue.js
@@ -13,19 +27,6 @@
 - SpringBoot (Java EE11)
 - Firebase
 - Heroku
-
-## How to use
-
-### Text only
-単純に文章だけみたいという方向け
-
-[推薦文](./docs/index.md)
-
-### Web Site
-え、推薦文ってアプリ作るんじゃないの？と思った方向け
-
-### Api Request
-いやいやAPIリクエスト飛ばしたいよという方向け
 
 ## Who am i
 yuki.komatsu

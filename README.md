@@ -3,10 +3,7 @@
 はくと君の推薦文を書くためのリポジトリ。
 [WIP] Work in Progress
 
-## links [WIP]
-- [docs](#)
-- [Apps](#)
-- [api](#)
+すみません執筆途中です。（というか開発途中です）
 
 ## Tech
 - Git on Github
@@ -18,20 +15,22 @@
 - Heroku
 
 ## How to use
-- [Text only]()
-- [Web Site]()
-- [Api Request]()
 
 ### Text only
+単純に文章だけみたいという方向け
+
+[推薦文](./docs/index.md)
 
 ### Web Site
+え、推薦文ってアプリ作るんじゃないの？と思った方向け
 
 ### Api Request
-
+いやいやAPIリクエスト飛ばしたいよという方向け
 
 ## Who am i
 yuki.komatsu
 
-AIESECER from AG
-1819 MC BCXP/IS
+AIESEC'er from AG
+1819 MC BCXP/IS (Design/Engineer)
 
+Work at BizReach as Engineer

@@ -1,6 +1,6 @@
 # はくとくん推薦文
 
-はくと君の推薦文を書くためのリポジトリ。
+はくと君の推薦文を書くためのリポジトリ。  
 [WIP] Work in Progress
 
 すみません執筆途中です。（というか開発途中です）
@@ -32,7 +32,7 @@
 ## Who am i
 yuki.komatsu
 
-AIESEC'er from AG
+AIESEC'er from AG  
 1819 MC BCXP/IS (Design/Engineer)
 
 Work at BizReach as Engineer
